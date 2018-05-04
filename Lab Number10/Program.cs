@@ -61,17 +61,3 @@ namespace Lab_Number10
         }
     }
 }
-
-
-
-
-
-
-
-
-
-
-//Console.WriteLine("Hello, please enter a radius.");
-//string input = Console.ReadLine();
-
-//if (i >= 0; i <= radius )

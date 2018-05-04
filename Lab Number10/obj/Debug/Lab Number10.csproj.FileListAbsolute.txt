@@ -1,0 +1,7 @@
+c:\users\jaide\source\repos\Lab Number10\Lab Number10\bin\Debug\Lab Number10.exe.config
+c:\users\jaide\source\repos\Lab Number10\Lab Number10\bin\Debug\Lab Number10.exe
+c:\users\jaide\source\repos\Lab Number10\Lab Number10\bin\Debug\Lab Number10.pdb
+c:\users\jaide\source\repos\Lab Number10\Lab Number10\obj\Debug\Lab Number10.csprojResolveAssemblyReference.cache
+c:\users\jaide\source\repos\Lab Number10\Lab Number10\obj\Debug\Lab Number10.csproj.CoreCompileInputs.cache
+c:\users\jaide\source\repos\Lab Number10\Lab Number10\obj\Debug\Lab Number10.exe
+c:\users\jaide\source\repos\Lab Number10\Lab Number10\obj\Debug\Lab Number10.pdb
